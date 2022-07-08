@@ -5,6 +5,8 @@ body {
 .container {
   display: flex;
   justify-content: center;
+  align-content: center;
+  flex-direction: column;
   /* position: absolute; */
   /* margin: 2em; */
 }
